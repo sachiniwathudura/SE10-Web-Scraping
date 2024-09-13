@@ -1,0 +1,14 @@
+Topic,Content
+Definition of Algorithm,The word Algorithm means ” A set of finite rules or instructions to be followed in calculations or other problem-solving operations ” Or ” A procedure for solving a mathematical problem in a finite number of steps that frequently involves recursive operations”.
+Use of the Algorithms:,Therefore Algorithm refers to a sequence of finite steps to solve a particular problem.
+What is the need for algorithms?,Algorithms play a crucial role in various fields and have many applications. Some of the key areas where algorithms are used include:
+What are the Characteristics of an Algorithm?,"These are just a few examples of the many applications of algorithms. The use of algorithms is continually expanding as new technologies and fields emerge, making it a vital component of modern society."
+Properties of Algorithm:,Algorithms can be simple and complex depending on what you want to achieve.
+Types of Algorithms:,"It can be understood by taking the example of cooking a new recipe. To cook a new recipe, one reads the instructions and steps and executes them one by one, in the given sequence. The result thus obtained is the new dish is cooked perfectly. Every time you use your phone, computer, laptop, or calculator you are using Algorithms. Similarly, algorithms help to do a task in programming to get the expected output."
+Advantages of Algorithms:,"The Algorithm designed are language-independent, i.e. they are just plain instructions that can be implemented in any language, and yet the output will be the same, as expected."
+Disadvantages of Algorithms:,
+How to Design an Algorithm?,"As one would not follow any written instructions to cook the recipe, but only the standard one. Similarly, not all written instructions for programming are an algorithm. For some instructions to be an algorithm, it must have the following characteristics:"
+How to analyze an Algorithm?,There are several types of algorithms available. Some important algorithms are:
+What is Algorithm complexity and how to find it?,It is the simplest approach to a problem. A brute force algorithm is the first approach that comes to finding when we see a problem.
+How to express an Algorithm?,"A recursive algorithm is based on recursion. In this case, a problem is broken into several sub-parts and called the same function again and again."
+What kind of Experience do you want to share?,"The backtracking algorithm builds the solution by searching among all possible solutions. Using this algorithm, we keep on building the solution following criteria. Whenever a solution fails we trace back to the failure point build on the next solution and continue this process till we find the solution or all possible solutions are looked after."
